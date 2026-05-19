@@ -1,6 +1,7 @@
 {
   "name": "reci_app",
   "version": "1.0.0",
+  "type": "commonjs",
   "main": "expo-router/entry",
   "scripts": {
     "android": "expo run:android",
